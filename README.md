@@ -2,7 +2,7 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-|Heling Shi | |
+|Heling Shi |370001 |
 |Jingren Tang | |
 |Hanwen Zhang |370374 |
 
